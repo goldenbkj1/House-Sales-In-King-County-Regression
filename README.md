@@ -67,6 +67,26 @@ We used data visualizations to enhance our understanding of the dataset and mode
 
 - **Residual Plots**: Visualizing model residuals to check for patterns and heteroscedasticity.
 
+# <img src="https://www.getcloudapp.com/wp-content/uploads/2021/03/5aebb952e4867ce13f4d308f_laptop_gif_trans.gif" > Screenshots
+*This graph shows distribution of categorical variables through Heatmap.*
+![image]![histogram1](https://github.com/goldenbkj1/House-Sales-In-King-County-Regression/assets/114793267/a4f1cd0c-5bf4-4ae6-8e61-cd8fddf36a91)
+![image]![histogram2](https://github.com/goldenbkj1/House-Sales-In-King-County-Regression/assets/114793267/38aef265-90ef-4368-abca-a550bde28a66)
+![image]![histogram4](https://github.com/goldenbkj1/House-Sales-In-King-County-Regression/assets/114793267/6e994e40-0989-4f12-ba35-b7ade1e81417)
+![image]![histogram3](https://github.com/goldenbkj1/House-Sales-In-King-County-Regression/assets/114793267/7728694c-69b0-4666-9181-053167e20c9f)
+
+*This graph isualize the correlations between all the variables through Pair Plot.*
+![image]![plot pair](https://github.com/goldenbkj1/House-Sales-In-King-County-Regression/assets/114793267/4c9028b8-5ea1-4182-a9cf-e20ef8fd9126)
+
+*The below correlation table provides a summary of correlation between continuous variable in data through Heat Map.*
+![image]![heatmap](https://github.com/goldenbkj1/House-Sales-In-King-County-Regression/assets/114793267/b74d1f58-e3ef-4d2b-b555-b9f849f8e460)
+
+
+
+
+
+
+
+
 ### Conclusion
 
 In conclusion, our machine learning models provide valuable insights into predicting house prices in King County. We found that factors such as square footage, location, and overall condition significantly impact house prices.
